@@ -1,0 +1,14 @@
+Thank you for downloading my Content Warning backup saver!
+
+
+A. Direct Start
+1. Put your games location in the game_path.txt
+2. Run the direct_start.bat file
+
+B. Satrt Via Steam
+1. Start steam
+2. Run the start_via_steam.bat file
+
+
+
+Acsalás
