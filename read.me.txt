@@ -6,7 +6,7 @@ A. Direct Start
 2. Put your games saving location in the data.py
 3. Run the direct_start.bat file
 
-B. Satrt Via Steam
+B. Start Via Steam
 1. Start steam
 2. Put your games saving location in the data.py
 3. Run the start_via_steam.bat file
